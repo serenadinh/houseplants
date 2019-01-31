@@ -2,9 +2,20 @@
 	padding: 0;
 	margin: 0;
 }
+nav {
+	background-color: #000000;
+	color: #ffffff;
+	font-family: sans-serif;
+}
 p, #about {
-	padding: 50px;
 	text-align: center;
 	text-decoration: none;
 	font-family: sans-serif;
+}
+img {
+	margin-top: : 50px;
+	margin-bottom: 50px;
+}
+footer, #text-footer {
+	text-align: center;
 }
