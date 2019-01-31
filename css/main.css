@@ -2,3 +2,9 @@
 	padding: 0;
 	margin: 0;
 }
+p, #about {
+	padding: 50px;
+	text-align: center;
+	text-decoration: none;
+	font-family: sans-serif;
+}
